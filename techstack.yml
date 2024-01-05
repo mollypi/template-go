@@ -1,7 +1,8 @@
 repo_name: mollypi/template-go
 report_id: 51225152199fe0699e32575a228cddd5
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T05:35:38+00:00'
+timestamp: '2024-01-05T08:42:26+00:00'
 requested_by: jharrisonio
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mollypi/template-go
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/mollypi/template-go
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -35,4 +38,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mollypi/template-go
   detection_source: Repo Metadata
